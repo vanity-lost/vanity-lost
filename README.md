@@ -7,12 +7,14 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/randolph-zhao)
 
 ## Skills
-<img src="https://img.shields.io/badge/Python-%23232F3E?logo=Python&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Java-%23232F3E?logo=Java&logoColor=white&style=for-the-badge">
-<img src="https://img.shields.io/badge/Sklearn-%23232F3E?logo=Sklearn&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Tensorflow-%23232F3E?logo=Tensorflow&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Azure-%23232F3E?logo=Azure&logoColor=white&style=for-the-badge"/>
+<a>
+<img align="center" src="https://img.shields.io/badge/Python-%23232F3E?logo=Python&logoColor=white&style=for-the-badge"/>
+<img align="center" src="https://img.shields.io/badge/Java-%23232F3E?logo=Java&logoColor=white&style=for-the-badge">
+<img align="center" src="https://img.shields.io/badge/Sklearn-%23232F3E?logo=Sklearn&logoColor=white&style=for-the-badge"/>
+<img align="center" src="https://img.shields.io/badge/Tensorflow-%23232F3E?logo=Tensorflow&logoColor=white&style=for-the-badge"/>
+<img align="center" src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
+<img align="center" src="https://img.shields.io/badge/Azure-%23232F3E?logo=Azure&logoColor=white&style=for-the-badge"/>
+</a>
 
 ## &#x1f4c8; GitHub Stats
 <a>
