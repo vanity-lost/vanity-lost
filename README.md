@@ -6,7 +6,7 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 ## Connect with me
 <br>
 [<img align="left" alt="linked-in" 
-    src="https://www.linkedin.com/in/randolph-zhao"/>]
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/randolph-zhao)
 <br>
 
 ## Expertise
