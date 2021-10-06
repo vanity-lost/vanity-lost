@@ -1,24 +1,31 @@
-### Hello World 👋
+# Hello World! 👋
 I am a B.S. of Computer Science in Case Western Reserver University, looking for new opportunities as a data scientist
 - 🔭 Proficient in ETL and Machine Learning
 - 🌱 Currently working as a data scientist in Definer Inc.
 
 ## Connect with me
-[<img align="left" alt="linked-in" 
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>] (https://www.linkedin.com/in/randolph-zhao)
+[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">](https://www.linkedin.com/in/randolph-zhao)
 
-## Expertise
+## Skills
+<img src="https://img.shields.io/badge/Python-%23232F3E?logo=Python&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Java-%23232F3E?logo=Java&logoColor=white&style=for-the-badge">
+<img src="https://img.shields.io/badge/Sklearn-%23232F3E?logo=Sklearn&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Tensorflow-%23232F3E?logo=Tensorflow&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Azure-%23232F3E?logo=Azure&logoColor=white&style=for-the-badge"/>
+
+## &#x1f4c8; GitHub Stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanity-lost&hide=java,html,text,shaderlab,hlsl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanity-lost&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
+</a>
 <br>
-<img align="left" alt="Python" 
-    src="https://img.shields.io/badge/Python-%23232F3E?logo=Python&logoColor=white&style=for-the-badge"/>
-<img align="left" alt="Java" 
-    src="https://img.shields.io/badge/Java-%23232F3E?logo=Java&logoColor=white&style=for-the-badge/">
-<img align="left" alt="Sklearn" 
-    src="https://img.shields.io/badge/Sklearn-%23232F3E?logo=Sklearn&logoColor=white&style=for-the-badge"/>
-<img align="left" alt="Tensorflow" 
-    src="https://img.shields.io/badge/Tensorflow-%23232F3E?logo=Tensorflow&logoColor=white&style=for-the-badge"/>
-<img align="left" alt="AWS" 
-    src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
-<img align="left" alt="Azure" 
-    src="https://img.shields.io/badge/Azure-%23232F3E?logo=Azure&logoColor=white&style=for-the-badge"/>
-<br>
+<a href="https://github.com/vanity-lost/Kaggle-Projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=Kaggle-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+<a href="https://github.com/vanity-lost/ml_projects">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=ml_projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+</a>
+</br>
