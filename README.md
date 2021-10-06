@@ -4,10 +4,8 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 - 🌱 Currently working as a data scientist in Definer Inc.
 
 ## Connect with me
-<br>
-<img align="left" alt="linked-in" 
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> (https://www.linkedin.com/in/randolph-zhao)
-<br>
+[<img align="left" alt="linked-in" 
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>] (https://www.linkedin.com/in/randolph-zhao)
 
 ## Expertise
 <br>
