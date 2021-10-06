@@ -5,8 +5,8 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 
 ## Connect with me
 <br>
-[<img align="left" alt="linked-in" 
-    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/randolph-zhao)
+<img align="left" alt="linked-in" 
+    src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/> (https://www.linkedin.com/in/randolph-zhao)
 <br>
 
 ## Expertise
@@ -20,7 +20,7 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 <img align="left" alt="Tensorflow" 
     src="https://img.shields.io/badge/Tensorflow-%23232F3E?logo=Tensorflow&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="AWS" 
-    src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge" />
+    src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
 <img align="left" alt="Azure" 
-    src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white" />
+    src="https://img.shields.io/badge/Azure-%23232F3E?logo=Azure&logoColor=white&style=for-the-badge"/>
 <br>
