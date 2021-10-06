@@ -30,5 +30,5 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
   </a>
 </p>
 <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=vanity-lost&theme=react-dark&bg_color=20232a&hide_border=true" width=90% />
+  <img src="https://activity-graph.herokuapp.com/graph?username=vanity-lost&theme=react-dark&bg_color=20232a&hide_border=true" />
 </p>
