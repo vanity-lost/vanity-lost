@@ -16,6 +16,13 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
   <img src="https://img.shields.io/badge/Azure-%23232F3E?logo=Azure&logoColor=white&style=for-the-badge"/>
 </p>
 
+## My Data Science Portfolio
+<p float="left">
+  <a href="https://github.com/vanity-lost/data-science-portfolio">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=data-science-portfolio&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=129/>
+  </a>
+</p>
+
 ## &#x1f4c8; GitHub Stats
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanity-lost&hide=java,html,text,shaderlab,hlsl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
