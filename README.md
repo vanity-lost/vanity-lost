@@ -32,8 +32,8 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
   <a href="https://github.com/vanity-lost/Kaggle-Projects">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=Kaggle-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=129/>
   </a>
-  <a href="https://github.com/vanity-lost/ml_projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=ml_projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=129/>
+  <a href="https://github.com/vanity-lost/my_interested_projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=my_interested_projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" height=129/>
   </a>
 </p>
 <p>
