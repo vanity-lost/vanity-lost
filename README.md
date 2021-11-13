@@ -29,7 +29,6 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 </p>
 
 ## Some Other Major Portfolios
-
 <p float="left">
   <a href="https://github.com/vanity-lost/Kaggle-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=Kaggle-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" width=400/>
