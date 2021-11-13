@@ -12,7 +12,7 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 ## Skills
 
 <p float="left">
-  <a><img src="https://img.shields.io/badge/Python-%23232F3E?logo=Python&logoColor=white&style=for-the-badge"/></a>
+  <img src="https://img.shields.io/badge/Python-%23232F3E?logo=Python&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Java-%23232F3E?logo=Java&logoColor=white&style=for-the-badge">
   <img src="https://img.shields.io/badge/Sklearn-%23232F3E?logo=Sklearn&logoColor=white&style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Tensorflow-%23232F3E?logo=Tensorflow&logoColor=white&style=for-the-badge"/>
@@ -29,6 +29,7 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 </p>
 
 ## Some Other Major Portfolios
+
 <p float="left">
   <a href="https://github.com/vanity-lost/Kaggle-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=Kaggle-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" width=400/>
