@@ -31,16 +31,19 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 ## Some Other Major Portfolios
 
 <p float="left">
+  <a href="https://github.com/vanity-lost/academic_projects">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=academic_projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" width=400/>
+  </a>
+  <a href="https://github.com/vanity-lost/data-analysis-and-visualization">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=data-analysis-and-visualization&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" width=400/>
+  </a>
+</p>
+<p float="left">
   <a href="https://github.com/vanity-lost/Kaggle-Projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=Kaggle-Projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" width=400/>
   </a>
   <a href="https://github.com/vanity-lost/my_interested_projects">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=my_interested_projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" width=400/>
-  </a>
-</p>
-<p float="left">
-  <a href="https://github.com/vanity-lost/academic_projects">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vanity-lost&repo=academic_projects&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f20" width=400/>
   </a>
 </p>
 
@@ -49,7 +52,4 @@ I am a B.S. of Computer Science in Case Western Reserver University, looking for
 <p float="left">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanity-lost&hide=java,html,text,shaderlab,hlsl&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3"/>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vanity-lost&show_icons=true&line_height=27&include_all_commits=true&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21"/>
-</p>
-<p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=vanity-lost&theme=react-dark&bg_color=20232a&hide_border=true" width= 800px/>
 </p>
