@@ -1,9 +1,10 @@
 # Hello World! 👋
 
-I am a B.S. of Computer Science in Case Western Reserver University, looking for new opportunities as a data scientist
+I am a Master of Computer Science in University of Illinois Urbana-Champaign (UIUC), looking for new opportunities as a data scientist
 
-- 🔭 Proficient in ETL and Machine Learning
-- 🌱 Currently working as a data scientist in Definer Inc.
+- 🔭 Proficient in Python, SQL, Java, Hive
+- 🔭 Experienced in database, ETL, visualization, and ML/DL modeling
+- 🌱 Familiar with statistical analysis and testing
 
 ## Connect with me
 
